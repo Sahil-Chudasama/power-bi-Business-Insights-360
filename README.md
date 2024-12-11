@@ -2,7 +2,7 @@
 
 The Business Insights 360 offers a robust dashboard powered by Microsoft Power BI, tailored to provide AtliQ Hardware with comprehensive insights across their Finance, Sales, Marketing, and Supply Chain departments worldwide. This dynamic tool amalgamates data from Excel/CSV files and MySQL database, enabling a holistic view of the company's operations.
 
-Live Dashboard: [Click Here]([https://www.novypro.com/project/atliq-business-insight-360](https://app.powerbi.com/view?r=eyJrIjoiYjZhN2I0ZmMtYzA1Yi00MjE1LTgxNmUtOTljNDVlNWY2YjgyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
+Live Dashboard: [Click Here](https://app.powerbi.com/view?r=eyJrIjoiYjZhN2I0ZmMtYzA1Yi00MjE1LTgxNmUtOTljNDVlNWY2YjgyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 Portfolio: [Click Here](https://codebasics.io/portfolio/Chudasama-Sahil-NileshBhai)
 
@@ -27,24 +27,24 @@ The dashboard draws data from two primary sources:
 
 ## Screenshots
 
-![Home](https://github.com/YatinLokhande/AtliQ-Excel-Sales-Analysis/assets/159231905/51164266-5a0b-47ea-b6d1-a5fa690246b2)
+![Home](https://drive.google.com/file/d/1J9OaUB3oPJMlE07HOUIo7ALgN92bzkIN/view?usp=drive_link)
 
-![finance](https://github.com/YatinLokhande/AtliQ-Excel-Sales-Analysis/assets/159231905/1fc0ed8a-ba50-4692-8608-2c6c8e3b2b4e)
+![finance](https://drive.google.com/file/d/1uyDAFCpV1XmQcijsg_4PEaWVQc6StOsV/view?usp=drive_link)
 
-![sales](https://github.com/YatinLokhande/AtliQ-Excel-Sales-Analysis/assets/159231905/1c4fb047-1f52-4fc2-bd62-b0f3db4fa348)
+![sales](https://drive.google.com/file/d/1KvUmCdLErlqY9cUe4kOuzBlD8Y-vBtyn/view?usp=drive_link)
 
-![marketing](https://github.com/YatinLokhande/AtliQ-Excel-Sales-Analysis/assets/159231905/fbbab897-8f46-4254-a7e5-20e9e62e82b4)
+![marketing](https://drive.google.com/file/d/1dUXIeUZXte4OZyBHsU_RGpCPvZv5n9om/view?usp=drive_link)
 
-![supply chain](https://github.com/YatinLokhande/AtliQ-Excel-Sales-Analysis/assets/159231905/48ac2f69-3b1f-42e8-bed3-79d473967ca1)
+![supply chain](https://drive.google.com/file/d/1B2fYVMF2AfPbbMvYHLCySu3s80o5ipJO/view?usp=drive_link)
 
-![Executive View](https://github.com/YatinLokhande/AtliQ-Excel-Sales-Analysis/assets/159231905/04831fc0-e244-4fd4-a1a2-4351655dd902)
+![Executive View](https://drive.google.com/file/d/1gf_4WneQOIwqT9yzAse3fS5LZrgpk2wU/view?usp=drive_link)
 
-![data model](https://github.com/YatinLokhande/AtliQ-Excel-Sales-Analysis/assets/159231905/caaffcc0-1d47-4839-895a-7d6740911810)
+![data model](https://drive.google.com/file/d/1Jqj_nTwztgdCsdfn-Ax6bQ4wmiVqRIj6/view?usp=drive_link)
 
 
 
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codebasics.io/portfolio/Yatin-Govinda-Lokhande)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yatinlokhande/)
+[![portfolio](https://codebasics.io/portfolio/Chudasama-Sahil-NileshBhai)
+[![linkedin](https://www.linkedin.com/in/sahil-chudasama-6775b8273/)
