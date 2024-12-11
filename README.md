@@ -27,24 +27,24 @@ The dashboard draws data from two primary sources:
 
 ## Screenshots
 
-![Home](https://drive.google.com/file/d/1J9OaUB3oPJMlE07HOUIo7ALgN92bzkIN/view?usp=drive_link)
+[Home](https://drive.google.com/file/d/1J9OaUB3oPJMlE07HOUIo7ALgN92bzkIN/view?usp=drive_link)
 
-![finance](https://drive.google.com/file/d/1uyDAFCpV1XmQcijsg_4PEaWVQc6StOsV/view?usp=drive_link)
+[finance](https://drive.google.com/file/d/1uyDAFCpV1XmQcijsg_4PEaWVQc6StOsV/view?usp=drive_link)
 
-![sales](https://drive.google.com/file/d/1KvUmCdLErlqY9cUe4kOuzBlD8Y-vBtyn/view?usp=drive_link)
+[sales](https://drive.google.com/file/d/1KvUmCdLErlqY9cUe4kOuzBlD8Y-vBtyn/view?usp=drive_link)
 
-![marketing](https://drive.google.com/file/d/1dUXIeUZXte4OZyBHsU_RGpCPvZv5n9om/view?usp=drive_link)
+[marketing](https://drive.google.com/file/d/1dUXIeUZXte4OZyBHsU_RGpCPvZv5n9om/view?usp=drive_link)
 
-![supply chain](https://drive.google.com/file/d/1B2fYVMF2AfPbbMvYHLCySu3s80o5ipJO/view?usp=drive_link)
+[supply chain](https://drive.google.com/file/d/1B2fYVMF2AfPbbMvYHLCySu3s80o5ipJO/view?usp=drive_link)
 
-![Executive View](https://drive.google.com/file/d/1gf_4WneQOIwqT9yzAse3fS5LZrgpk2wU/view?usp=drive_link)
+[Executive View](https://drive.google.com/file/d/1gf_4WneQOIwqT9yzAse3fS5LZrgpk2wU/view?usp=drive_link)
 
-![data model](https://drive.google.com/file/d/1Jqj_nTwztgdCsdfn-Ax6bQ4wmiVqRIj6/view?usp=drive_link)
+[data model](https://drive.google.com/file/d/1Jqj_nTwztgdCsdfn-Ax6bQ4wmiVqRIj6/view?usp=drive_link)
 
 
 
 
 
 ## 🔗 Links
-[![portfolio](https://codebasics.io/portfolio/Chudasama-Sahil-NileshBhai)
-[![linkedin](https://www.linkedin.com/in/sahil-chudasama-6775b8273/)
+[portfolio](https://codebasics.io/portfolio/Chudasama-Sahil-NileshBhai)
+[linkedin](https://www.linkedin.com/in/sahil-chudasama-6775b8273/)
