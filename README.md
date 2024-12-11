@@ -46,5 +46,5 @@ The dashboard draws data from two primary sources:
 
 
 ## 🔗 Links
-[portfolio](https://codebasics.io/portfolio/Chudasama-Sahil-NileshBhai)
-[linkedin](https://www.linkedin.com/in/sahil-chudasama-6775b8273/)
+portfolio: [Click here](https://codebasics.io/portfolio/Chudasama-Sahil-NileshBhai)
+linkedin: [Click here](https://www.linkedin.com/in/sahil-chudasama-6775b8273/)
